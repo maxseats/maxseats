@@ -47,6 +47,6 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://doricom.tistory.com/)](https://doricom.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimms6435@gmail.com)](mailto:kimms6435@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:oooooo123456@naver.com)](mailto:oooooo123456@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:oooooo123456@naver.com)](mailto:oooooo123456@naver.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://doricom.tistory.com/)](https://doricom.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kimms6435@gmail.com)](mailto:kimms6435@gmail.com)
