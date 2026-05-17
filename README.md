@@ -1,54 +1,76 @@
-# KIM MIN SEOK 😉
-<a href="https://github.com/maxseats/">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaxseats&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
+<a name="readme-top"></a>
 
-   
-[![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxseats)](https://camo.githubusercontent.com/02418477f180fc07eeef7d83ca4be34047093c6acdb4854ff5386060f9eda414/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b6d732d67697430323035)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxseats&langs_count=5)
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Kim%20Min%20Seok&fontSize=55&fontAlignY=38&desc=AI%20Builder%20%C2%B7%20Practical%20LLM%20Systems&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
+</p>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxseats&langs_count=5&hide=Jupyter%20Notebook) -->
+<!-- TYPING IDENTITY LINE -->
+<p align="center">
+  <a href="https://github.com/maxseats">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=620&lines=AI+Builder+%C2%B7+Practical+LLM+Systems;%22%EC%A0%95%ED%99%95%ED%9E%88+%EB%AD%90%EA%B0%80+%EB%AC%B8%EC%A0%9C%EC%95%BC%3F%22" alt="typing" />
+  </a>
+</p>
 
- 
-  
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstjr0205)](https://solved.ac/alstjr0205/) --> 
-     
-   
-# 💪Skills
-### Tech
+---
 
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?&style=for-the-badge&logo=Streamlit&logoColor=white)
+### 👋 About me
 
-### Language
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+문제를 정확히 정의하고, AI로 직접 만들어 푸는 빌더예요.
+**LLM 애플리케이션**, **RAG**, **AI Agent**, **음성 인터페이스**처럼
+실용적인 시스템을 끈질기게 깎아내는 걸 즐깁니다.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
+---
 
+### 🧠 LLM / AI
 
-<!-- 아이콘 출처 : https://simpleicons.org/ -->
-<!-- ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white) -->
-<!-- ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white) -->
-<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) -->
-<!-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) -->
- 
-### Tool
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI%20Realtime-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Realtime" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
 
- 
-# :mailbox_with_mail: Contacts
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:oooooo123456@naver.com)](mailto:oooooo123456@naver.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://doricom.tistory.com/)](https://doricom.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kimms6435@gmail.com)](mailto:kimms6435@gmail.com)
+### 🛠️ Backend & Infra
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,bash,postgres,mysql,docker,aws,cloudflare,linux,git,githubactions&perline=12" alt="skills" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="profile-details" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/default/3-stats.svg" height="180" alt="stats" />
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" height="180" alt="repos-per-language" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/default/4-productive-time.svg" height="180" alt="productive-time" />
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" height="180" alt="most-commit-language" />
+</p>
+
+---
+
+### 📬 Contact
+
+<p>
+  <a href="mailto:kimms6435@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://doricom.tistory.com/">
+    <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=tistory&logoColor=white" alt="blog" />
+  </a>
+  <a href="mailto:oooooo123456@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white" alt="naver" />
+  </a>
+</p>
+
+<p align="right"><a href="#readme-top">⬆ back to top</a></p>
