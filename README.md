@@ -26,8 +26,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI%20Realtime-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Realtime" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/pydantic--ai-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="pydantic-ai" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=databricks&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -36,7 +38,7 @@
 ### 🛠️ Backend & Infra
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,bash,postgres,mysql,docker,aws,cloudflare,linux,git,githubactions&perline=12" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,bash,postgres,mysql,mongodb,docker,aws,gcp,cloudflare,linux,git,githubactions,notion&perline=8" alt="skills" />
 </p>
 
 ---
