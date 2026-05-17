@@ -2,7 +2,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Kim%20Min%20Seok&fontSize=55&fontAlignY=38&desc=AI%20Builder%20%C2%B7%20Practical%20LLM%20Systems&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=maxseats&fontSize=70&fontAlignY=38&desc=AI%20Builder%20%C2%B7%20Practical%20LLM%20Systems&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
 </p>
 
 <!-- TYPING IDENTITY LINE -->
