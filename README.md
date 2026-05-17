@@ -52,11 +52,6 @@
   <img src="./profile-summary-card-output/default/1-repos-per-language.svg" height="180" alt="repos-per-language" />
 </p>
 
-<p align="center">
-  <img src="./profile-summary-card-output/default/4-productive-time.svg" height="180" alt="productive-time" />
-  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" height="180" alt="most-commit-language" />
-</p>
-
 ---
 
 ### 📬 Contact
